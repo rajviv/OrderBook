@@ -1,0 +1,5 @@
+Reading from:output/test2.dat
+[Response:|bidprice:20|bidqty:150|bidcount:1|askprice:13|askqty:10|askcount:1]
+[Response:|bidprice:19|bidqty:110|bidcount:1|askprice:13|askqty:20|askcount:1]
+[Response:|bidprice:0|bidqty:0|bidcount:0|askprice:12|askqty:50|askcount:1]
+Done reading response file
